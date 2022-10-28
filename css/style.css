@@ -1,0 +1,33 @@
+
+h1{
+    font-family:monospace;
+    font-weight: bold;
+    font-size:xx-large;
+    color: white;
+}
+.fondo1{
+    background-color: grey;
+    position: relative;
+}
+.fondo2{
+    background-color: darkgray;
+    position: relative;
+}
+.fondo3 , footer{
+    background-color: white;
+    position: relative;
+    margin-top: 0%;
+}
+.iconos{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+}
+.cuadroPortfolio{
+    width: 200px;
+    height: 200px;
+}
+.cuadroGris{
+    width: 50px;
+    height: 50px;
+}
